@@ -1,5 +1,6 @@
 # uses more ram, handle with caution
 import sys
+import os
 import torch
 from diffusers import StableDiffusionPipeline
 
